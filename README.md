@@ -45,9 +45,10 @@ src="https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="100" style="margin-right: 50px;"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100"/>
-  </a>
+  <a href="mailto:shandiloraine@gmail.com" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 

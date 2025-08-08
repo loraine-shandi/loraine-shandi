@@ -9,6 +9,7 @@
 
 </h1>
 
+
 <h3 align="center">🧠 ᴋɴᴏᴡʟᴇᴅɢᴇ ɪɴ ᴘʀᴏɢʀᴇꜱꜱ... ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ.</h3>
 <hr>
 
@@ -21,12 +22,17 @@
 - 😝: Born to be an engineering student, forced to be an IS student.
 - 👩‍🎓: Eager to develop skills in team leadership and documentation.
 
-<h3> Connect with Me </h3>
-<p align="left">
-  <a href="mailto:shandiloraiane@gmail.com">
-    📧 shandiloraiane@gmail.com
-  </a>
-</p>
+<h3> Connect with Me! </h3>
+<div align="left">
+
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/shandi-belen-3a5566302)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:shandiloraine@gmail.com)
+<p align="left"><a 
+href="https://github.com/loraine-shandi" target="_blank"><img alt="Github" 
+src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"></a> 
+
+
+</div>
 
 ---
 <h3 align="center">𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝘼𝙉𝘿 𝙏𝙊𝙊𝙇𝙎</h3>
@@ -68,4 +74,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=loraine-shandi&show_icons=true&theme=dracula" alt="Loraine's GitHub Stats">
 </p>
+
+
+
 

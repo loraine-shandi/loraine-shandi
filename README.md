@@ -45,10 +45,7 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="100" style="margin-right: 50px;"/>
-  </a>
-  <a href="mailto:shandiloraine@gmail.com" target="_blank">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100" style="margin-right: 50px;"/> </a>
 
 </p>
 
@@ -70,10 +67,14 @@ src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&lo
    
 </p>
 
-<h3 align="center">𝗦𝘁𝗮𝘁𝘀 </h3>
+<h3 align="center"> GitHub 𝗦𝘁𝗮𝘁𝘀 </h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=loraine-shandi&show_icons=true&theme=dracula" alt="Loraine's GitHub Stats">
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loraine-shandi&theme=synthwave" alt="GitHub Streak Stats" height="165">
+</p>
+
 
 
 

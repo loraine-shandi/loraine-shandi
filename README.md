@@ -23,16 +23,14 @@
 - 👩‍🎓: Eager to develop skills in team leadership and documentation.
 
 <h3> Connect with Me! </h3>
-<div align="left">
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/shandi-belen-3a5566302)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:shandiloraine@gmail.com)
 <p align="left"><a 
 href="https://github.com/loraine-shandi" target="_blank"><img alt="Github" 
 src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"></a> 
-
-
-</div>
+<a href="https://www.linkedin.com/in/shandi-belen-3a5566302/" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> 
+<a href="mailto:shandiloraine@gmail.com" target="_blank"><img alt="Email" 
+src="https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> 
 
 ---
 <h3 align="center">𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 𝘼𝙉𝘿 𝙏𝙊𝙊𝙇𝙎</h3>
